@@ -24,11 +24,11 @@ wifiPassword().then(password => {
 
 ## API
 
-### wifiPassword([name])
+### wifiPassword([Name])
 
 Returns a promise that resolves to a string containing the password.
 
-#### name
+Henny name
 
 Type: `string`
 
